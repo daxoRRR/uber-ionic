@@ -1,0 +1,8 @@
+{
+  "name": "uber-app",
+  "app_id": "89d2982b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
